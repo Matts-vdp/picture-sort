@@ -28,6 +28,7 @@ The different buttons with there respective hotkeys are:
 * Good: right arrow
 * Not sure: down arrow
 * Bad: left arrow
+
 When a button or hotkey is pressed the application will scroll to the next image.
 
 ### File handeling
