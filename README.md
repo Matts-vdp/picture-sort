@@ -1,5 +1,5 @@
 # picture-sort
-A Electron app to sort a folder with pictures into good bad and not sure folders
+An Electron app to sort a folder with pictures into good bad and not sure folders
 
 
 ## Preview
@@ -7,8 +7,9 @@ A Electron app to sort a folder with pictures into good bad and not sure folders
 ![Image of GUI](https://github.com/Matts-vdp/picture-sort/blob/main/pics/Screenshot.png)
 
 ## installation
-When using the unpackaged version you have to install the needed dependencys first these can be found in package.json.
+When using the unpackaged version you have to install the needed dependencies first these can be found in package.json.
 If you want a prepackaged version see the releases tab.
+This version can be used without installing any additional software.
 The release is compacted in a zip file to reduce file size. To use the program you have to unzip this folder.
 
 ## Usage
