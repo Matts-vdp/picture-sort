@@ -36,5 +36,5 @@ Inside the chosen folder a Good, Bad and a Not-sure folder will be created.
 When a button or hotkey is pushed the image will be put in the respective folder.
 
 #### Important information
-**Images will be copied from there original location to the chosen location, this to make sure no images get lost when a error occurs.**
+**Images will be copied from their original location to the chosen location, this to make sure no images get lost when a error occurs.**
 
